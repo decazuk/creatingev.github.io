@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[课程格子黑板报]]></title>
-  <link href="http://creatingev.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Rails | 课程格子黑板报]]></title>
+  <link href="http://creatingev.github.io/blog/categories/rails/atom.xml" rel="self"/>
   <link href="http://creatingev.github.io/"/>
   <updated>2013-11-27T10:30:12+08:00</updated>
   <id>http://creatingev.github.io/</id>
